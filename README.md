@@ -1,2 +1,2 @@
 # graphgenerator
-A simple generator of graphs
+A simple graph generator.
