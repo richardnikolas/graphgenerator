@@ -1,0 +1,33 @@
+{
+  "name": "graphgenerator",
+  "version": "1.0.0",
+  "description": "A simple generator of graphs",
+  "author": "A group of students",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "dev": "nodemon ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardnikolas/graphgenerator.git"
+  },
+  "keywords": [
+    "graph",
+    "Graph",
+    "Generator",
+    "grafo",
+    "grafos"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardnikolas/graphgenerator/issues"
+  },
+  "homepage": "https://github.com/richardnikolas/graphgenerator#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
