@@ -27,7 +27,7 @@
   "homepage": "https://github.com/richardnikolas/graphgenerator#readme",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.2"
   }
 }
